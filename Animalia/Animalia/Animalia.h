@@ -41,4 +41,14 @@ public:
 	int Speek();
 };
 
+//class Dragon : public Animal
+//{
+//private:
+//
+//	HairType hair;
+//	Sex sex;
+//	int age;
+//
+//};
+
 #endif
